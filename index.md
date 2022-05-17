@@ -1,5 +1,5 @@
 Welcome 
-In this space I will condivide such researchs and work about last advancement in A.I.
+In this space I will condivide some researchs and work about the last advancement of A.I.
 
 
 
