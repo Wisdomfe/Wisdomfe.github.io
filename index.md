@@ -1,4 +1,5 @@
-Hello and welcome to this blog.ì All pages on the blog, including this one, use  You can include images:
+Welcome to a space intended for discussion and sharing researchs about last advancement in A.I.
+
 
 ![Image of fast.ai logo](images/logo.png)
 
