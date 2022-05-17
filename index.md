@@ -3,7 +3,7 @@ In this space I will condivide such researchs and work about last advancement in
 
 
 
-![Image of fast.ai logo](images/logo.png)
+![Image](images/logo.png)
 
 ## A.I. Application and Research
 
