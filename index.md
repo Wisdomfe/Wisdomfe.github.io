@@ -1,8 +1,9 @@
-Welcome to a space intended for discussion and sharing researchs about last advancement in A.I.
+Welcome 
+In this space I will condivide such researchs and work about last advancement in A.I.
+
 
 
 ![Image of fast.ai logo](images/logo.png)
 
-## Artificial Inteliggence Application for Financial Mathematics topics 
+## A.I. Application and Research
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
