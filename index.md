@@ -1,5 +1,6 @@
-Welcome 
-In this space I will condivide some researchs and work about the last advancement of A.I.
+#Welcome 
+
+In this space it is possible to find some researchers and projects about the latest advancement in A.I.
 
 
 
