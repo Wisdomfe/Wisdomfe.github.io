@@ -7,5 +7,5 @@
 
 ![Image](images/logo.png)
 
-## A.I. Application and Research
+## Artificial Intelligence, Quantitative Trading, Blockchain 
 
