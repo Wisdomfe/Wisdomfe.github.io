@@ -8,5 +8,5 @@ Our knowledge and skills give us an edge in analyzing blockchain solutions and d
 
 
 
-![Image](images/Cosa-fare-a-Cortina-dAmpezzo-in-estate.png)
+![Image](images/Cosa-fare-a-Cortina-dAmpezzo-in-estate.jpg)
 
