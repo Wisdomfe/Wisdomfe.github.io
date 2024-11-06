@@ -1,4 +1,4 @@
-# Soluzioni A.I. per imprese 
+# Intelligenza artificiale
 
 
 
