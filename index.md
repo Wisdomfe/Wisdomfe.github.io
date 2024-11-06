@@ -6,7 +6,7 @@
 
 ![Image](images/Immagine 2024-10-05 173431.png)
 
-### Analisi Predittiva per la Gestione del Cantiere
+*### Analisi Predittiva per la Gestione del Cantiere
 Utilizziamo strumenti di intelligenza artificiale per analizzare i dati raccolti dal cantiere, permettendo alle aziende di prevedere e risolvere problemi in anticipo, come ritardi, rischi di sicurezza e sprechi, riducendo così i costi e migliorando l’efficienza operativa
 
 ### Progettazione Assistita con AI
