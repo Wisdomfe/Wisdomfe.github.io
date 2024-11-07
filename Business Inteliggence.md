@@ -1,4 +1,4 @@
-# Business Stategy 
+# Business Inteliggence 
 Dai Potere ai Tuoi Dati
 Trasforma i Dati in Azioni Strategiche. Con i nostri servizi di Business Intelligence, puoi prendere decisioni informate e ottenere una visione chiara e dettagliata del tuo business. Grazie a dashboard interattive e analisi avanzate, ti aiutiamo a sfruttare al massimo il potenziale dei tuoi dati per guidare il successo aziendale.
 
